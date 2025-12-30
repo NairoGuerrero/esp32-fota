@@ -1,4 +1,4 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "bin_url": "https://raw.githubusercontent.com/NairoGuerrero/esp32-fota/refs/heads/master/app-template.bin"
 }
